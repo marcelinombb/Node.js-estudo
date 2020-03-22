@@ -5,7 +5,7 @@ const sequelize = new Sequelize('test','root','',{
 })
 
 sequelize.authenticate().then(()=>{
-    console.log("suamae huehuehue")
+    console.log("huehuehue")
 }).catch((erro)=>{
     console.log(erro)
 })

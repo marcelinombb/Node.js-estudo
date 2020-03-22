@@ -10,16 +10,6 @@ let dado = ["marcelino", 20,1.500] */
     console.log(element)
 }); */
 
-/* let meuovo = (a,b) => {
-    return a*b*seucu(a,b)
-}
-function seucu(a,b) {
-    return a * b
-}
-
-console.log(meuovo(5,2))
- */
-
 let fatorial = (num) => {
     if(num == 1){
         return 1
